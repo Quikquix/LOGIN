@@ -1,0 +1,28 @@
+.main_container{
+    background-color: rgb(255, 111, 0);
+    width: 500px;
+    height: auto;
+    margin: 200px auto;
+    grid-template-columns: 1px;
+    background-color: bisque;
+    border-radius: 5px;
+    box-shadow: 0 1px 5px;
+
+}
+
+.login_container{
+    text-align: center;
+    margin: 10px 50px;
+    padding: 5px;
+    border-collapse: collapse;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+body{
+        display: flex;
+    justify-content: center;
+    align-items: center;
+   background-color: burlywood;
+}
+
+
